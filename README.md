@@ -9,7 +9,7 @@ I am passionate about leveraging technology to solve modern-day problems, promot
 
 This passion was sparked during my volunteering experiences from 2018 to 2019, where I participated in an outreach program teaching English to students in Cambodia. While the work was meaningful, I realized the limitations of our efforts in creating sustainable impacts. This became a turning point for me, as I understood that technology holds the key to innovating solutions that achieve lasting change. 
 
-![My time in Baray,Cambodia](/images/baray.heic)
+![My time in Baray,Cambodia](images/baray.heic)
 
 I am grateful to have brought this perspective into medicine through my internships and part-time role at Medtronic, where I contribute to developing and verifying firmware for medical devices, driving meaningful advancements in healthcare.
 
