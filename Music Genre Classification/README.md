@@ -2,7 +2,7 @@
 
 ### ECS 170 Final Project  
 
-##### Ameen Salim, G Krupaa No Name, Sarbani Kumar, Devon Streelman, Ansh Chhabra, Jesus Delgado-Perez, Loc Nguyen, Lorenzo Fernandes  
+##### Ameen Salim, G Krupaa, Sarbani Kumar, Devon Streelman, Ansh Chhabra, Jesus Delgado-Perez, Loc Nguyen, Lorenzo Fernandes  
 
 ---
 
