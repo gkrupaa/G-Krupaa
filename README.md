@@ -16,5 +16,10 @@ I am grateful to have brought this perspective into medicine through my internsh
 - **Education Equity:** Through volunteering and club initiatives, I am dedicated to making STEM education accessible to everyone.
 - **Music & Arts**: Beyond academics, I love engaging with arts and creativity. Music has been a significant part of my life from a young age, and some of my favorite genres include soul, indie, and hip hop. I also studied theatre in high school and have volunteered as a guest DJ for the UC Davis radio station, blending my interests in music and storytelling. I often find the intersectionality between the arts and technology fascinating, enjoying creative approaches to solving complex problems.
 
+### AI Projects
+Here are some of the AI Projects that I have worked on:
+- **Music Genre Classification and Recommendation System:** Leveraged ensemble methods like Random Forest and XGBoost to classify music genres with 84% accuracy and implemented a GPT-3.5-powered recommendation system to provide personalized song suggestions.
+- **Police Dispatch Data Analysis:** Analyzed San Francisco Police Department dispatch data to optimize resource allocation and developed a predictive model to enhance policing efficiency.
+
 ### Let’s Connect!
 Explore my repositories to see some of my projects, and feel free to reach out if you’d like to collaborate or discuss anything tech-related!
