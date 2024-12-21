@@ -1,6 +1,7 @@
 # Welcome to My GitHub! Here is a little bit about me...
 
-Hi there! I'm **Krupaa**, a fourth-year undergraduate at the University of California, Davis, pursuing a **Bachelor of Science in Computer Science** with a minor in **Religious Studies** (Class of 2025).                                                                           <img src="images/me.jpg" alt="Alt Text" width="300" height="400" />
+Hi there! I'm **Krupaa**, a fourth-year undergraduate at the University of California, Davis, pursuing a **Bachelor of Science in Computer Science** with a minor in **Religious Studies** (Class of 2025).                                                                           
+<img src="images/me.jpg" alt="Alt Text" width="300" height="300" />
 
 ### About Me
 I was born and raised in Singapore before moving to the United States for college!
