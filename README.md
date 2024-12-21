@@ -8,11 +8,12 @@ I was born and raised in Singapore before moving to the United States for colleg
 I am passionate about leveraging technology to solve modern-day problems, promote equity in education, and create sustainable solutions. My experiences span software development, firmware testing, machine learning, and data analysis, and I enjoy tackling challenges in these fields.
 
 This passion was sparked during my volunteering experiences from 2018 to 2019, where I participated in an outreach program teaching English to students in Cambodia. While the work was meaningful, I realized the limitations of our efforts in creating sustainable impacts. This became a turning point for me, as I understood that technology holds the key to innovating solutions that achieve lasting change. 
-![My time in Baray,Cambodia](images/baray.jpeg)
+
+![My time in Baray,Cambodia](images/baray.heic)
 
 I am grateful to have brought this perspective into medicine through my internships and part-time role at Medtronic, where I contribute to developing and verifying firmware for medical devices, driving meaningful advancements in healthcare.
 
-![Intern Presentation at Medtronic](images/medtronic.heic)
+![Intern Presentation at Medtronic](images/medtronic.png)
 
 ### Interests
 - **Machine Learning & Artificial Intelligence:** I am fascinated by the potential of AI in transforming industries and improving everyday life. My recent projects include building a music genre classification model and a dynamic song recommendation system.
