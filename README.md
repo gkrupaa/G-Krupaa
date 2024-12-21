@@ -14,7 +14,7 @@ I am grateful to have brought this perspective into medicine through my internsh
 - **Firmware Development:** My work at Medtronic has deepened my expertise in testing and verifying firmware for medical devices, particularly in Bluetooth Low Energy functionality.
 - **Sustainable Technology:** I aspire to design and implement systems that are not only innovative but also environmentally friendly and socially impactful.
 - **Education Equity:** Through volunteering and club initiatives, I am dedicated to making STEM education accessible to everyone.
-- **Music & Arts**: Beyond academics, I love engaging with arts and creativity. Music has been a significant part of my life from a young age, and some of my favorite genres include soul, indie, and hip hop. I also studied theatre in high school and have volunteered as a guest DJ for the UC Davis radio station, blending my interests in music and storytelling. I often find the intersectionality between the arts and technology fascinating, enjoying creative approaches to solving complex problems.
+- **Music & Arts**: Beyond academics, I love engaging with arts and creativity. Music has been a significant part of my life from a young age, and some of my favorite genres include neo soul, indie, and hip-hop. I also studied theatre in high school and have volunteered as a guest DJ for the UC Davis radio station, blending my interests in music and storytelling. I often find the intersectionality between the arts and technology fascinating, enjoying creative approaches to solving complex problems.
 
 ### AI Projects
 Here are some of the AI Projects that I have worked on:
