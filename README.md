@@ -13,7 +13,7 @@ This passion was sparked during my volunteering experiences from 2018 to 2019, w
 
 I am grateful to have brought this perspective into medicine through my internships and part-time role at Medtronic, where I contribute to developing and verifying firmware for medical devices, driving meaningful advancements in healthcare.
 
-![Intern Presentation at Medtronic](images/medtronic.jpg)
+<img src="path/to/image.jpg" alt="Alt Text" width="300" height="200" />
 
 ### Interests
 - **Machine Learning & Artificial Intelligence:** I am fascinated by the potential of AI in transforming industries and improving everyday life. My recent projects include building a music genre classification model and a dynamic song recommendation system.
