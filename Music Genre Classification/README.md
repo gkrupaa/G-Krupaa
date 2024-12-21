@@ -1,126 +1,111 @@
-# the-greatest-team
+# 🎶 Song Recommendation and Genre Classification System 🎶  
 
-ECS 170 Final Project
+### ECS 170 Final Project  
 
-Dataset: [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download)
-# 🎶 Song Recommendation System - ECS 170 🎶
-
-
-##### Ameen Salim, G Krupaa No Name, Sarbani Kumar, Devon Streelman, Ansh Chhabra, Jesus Delgado - Perez, Loc Nguyen, Lorenzo Fernandes
---- 
-Enter a mood or vibe you want to hear and get a personalized playlist from our song recommendation algorithm!
-
-<div align="center">
-  <h1>Song Recommendation System</h1>
-  <p>
-    A music recommendation system where users enter a mood or vibe to receive a custom playlist. Powered by a Flask backend, Next.js frontend, and SQLite database.
-  </p>
-</div>
+##### Ameen Salim, G Krupaa No Name, Sarbani Kumar, Devon Streelman, Ansh Chhabra, Jesus Delgado-Perez, Loc Nguyen, Lorenzo Fernandes  
 
 ---
 
-## Table of Contents
-- [About the Project](#star2-about-the-project)
-  - [Tech Stack](#space_invader-tech-stack)
-  - [Features](#dart-features)
-- [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  - [Prerequisites](#bangbang-prerequisites)
-  - [Installation](#gear-installation)
-  - [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
-- [Contact](#handshake-contact)
+## About the Project  
+
+This project combines the power of machine learning with music discovery to create a **two-part system**:  
+
+1. **Genre Classification Model**: Utilizes ensemble learning methods (Random Forest and XGBoost) to classify music tracks into five distinct genres—pop, rock, jazz, country, and classical—with 84% accuracy.  
+2. **Song Recommendation System**: Employs GPT-3.5 via LangChain to dynamically generate SQL queries, delivering personalized playlists based on user moods or activities.  
+
+The system uses a rich dataset of over a million tracks sourced from the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download), incorporating features like tempo, danceability, and energy for accurate predictions and recommendations.
 
 ---
 
-## About the Project
-The **Song Recommendation System** is a simple and fun way to discover music based on your mood or vibe. Users enter their mood, and the system generates a personalized playlist using a song recommendation algorithm. The project leverages machine learning concepts and a combination of frontend and backend technologies.
+## Key Features  
+
+- **Interactive Mood-Based Recommendations**: Users input their mood or desired vibe to receive a curated playlist tailored to their preferences.  
+- **Robust Machine Learning**: An ensemble classification model ensures accurate genre predictions across diverse datasets.  
+- **Dynamic SQL Queries**: GPT-3.5 Turbo is leveraged for generating SQL queries, improving the personalization of recommendations.  
 
 ---
 
-## Tech Stack
-- **Frontend:** [Next.js](https://nextjs.org/)
-- **Backend:** [Flask](https://flask.palletsprojects.com/)
-- **Database:** [SQLite](https://www.sqlite.org/index.html)
+## Objective  
+
+The goal was to enhance user experiences in music discovery by:  
+- Addressing limitations in existing music recommendation systems (e.g., limited user input).  
+- Promoting visibility for underrepresented music genres and artists.  
+- Exploring innovative intersections of AI, machine learning, and user interaction.  
 
 ---
 
-## Features
-- **Mood Selection Interface** — Users can enter a specific mood or vibe to get custom playlist recommendations.  
-- **Custom Query Response** — The system returns a personalized playlist using a recommendation algorithm tailored to the user’s input.
+## Tech Stack  
+
+- **Frontend:** [Next.js](https://nextjs.org/)  
+- **Backend:** [Flask](https://flask.palletsprojects.com/)  
+- **Database:** [SQLite](https://www.sqlite.org/index.html)  
 
 ---
 
-## Environment Variables
+## Environment Variables  
+
 To run this project, you will need to add the following environment variable to your `.env` file located in the project’s root directory.
 
-> Replace `your_openai_api_key_here` with your actual OpenAI API key.
+> Replace `your_openai_api_key_here` with your actual OpenAI API key.  
 
 ---
 
-## Getting Started
+## Getting Started  
 
 Follow the instructions below to set up the **Song Recommendation System** on your local machine.
 
----
-
-###  Prerequisites
-- **Python 3** installed on your system.
-- **Node.js** and **npm** installed for the Next.js frontend.
-- **uv** package manager installed. If you don't have it, install it with:
+### Prerequisites  
+- **Python 3** installed on your system.  
+- **Node.js** and **npm** installed for the Next.js frontend.  
+- **uv** package manager installed. If you don't have it, install it with:  
   ```bash
   pip install uv
+  ```  
 
-  ```md
-###  Installation
-1. **Clone the repository**:
+### Installation  
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/ameensalim1/song-recommendation-system.git
    cd song-recommendation-system
+   ```  
 
-2. **Set up the python virtual environment**
-
+2. **Set up the python virtual environment**:  
    ```bash
-    uv venv
-    source .venv/bin/activate
+   uv venv
+   source .venv/bin/activate
+   ```  
 
-3.	**Install Python dependencies:**
-    ```bash
-    uv pip install -r requirements.txt
+3. **Install Python dependencies**:  
+   ```bash
+   uv pip install -r requirements.txt
+   ```  
 
-4.	**Navigate to the frontend directory:**
-    ```bash
-    cd nextjsfrontend
+4. **Navigate to the frontend directory**:  
+   ```bash
+   cd nextjsfrontend
+   ```  
 
-5.	**Install Node.js dependencies:**
-    ```bash
-    npm install
+5. **Install Node.js dependencies**:  
+   ```bash
+   npm install
+   ```  
 
+6. **Start the frontend server**:  
+   ```bash
+   npm run dev
+   ```  
 
-6. **Start the frontend server:**
-    ```bash
-    npm run dev
-
-
-7. **Start the flask backend:** 
+7. **Start the Flask backend**:  
    ```bash
    cd backend
    python3 app.py
-
-**The project will be available at:**
-
-    ```bash
-    http://localhost:3000.
-
-
-##  Usage
-1. Go to `http://localhost:3000` in your browser.  
-2. Enter a mood or vibe into the input box.  
-3. Get a curated playlist generated by the system's song recommendation algorithm.
+   ```  
 
 ---
 
+## Usage  
 
-## Contact
-If you have any questions, feel free to reach out to me via my GitHub profile:  
-**GitHub:** [ameensalim1](https://github.com/ameensalim1)  
+1. Go to `http://localhost:3000` in your browser.  
+2. Enter a mood or vibe into the input box.  
+3. Get a curated playlist generated by the system's song recommendation algorithm.  
+
