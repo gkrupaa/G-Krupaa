@@ -1,6 +1,6 @@
 # 🎶 Song Recommendation and Genre Classification System 🎶  
 
-### ECS 170 Final Project  
+### Contributors 
 
 ##### Ameen Salim, G Krupaa, Sarbani Kumar, Devon Streelman, Ansh Chhabra, Jesus Delgado-Perez, Loc Nguyen, Lorenzo Fernandes  
 
