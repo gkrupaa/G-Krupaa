@@ -1,5 +1,10 @@
 # Incident Prediction and Police Allocation Model
 
+### Contributors 
+
+##### Ameen Salim, G Krupaa, Shauna Blomgren, Yash Girish Nadge
+---
+
 ## Introduction
 This project analyzes dispatch data to evaluate the efficiency of policing strategies in San Francisco, California. By examining correlations between timeframes, response times, districts, and incident types in calls for service, we aim to construct predictive models that assist in strategic police resource allocation. The goal is to forecast resource demands across different times and locations to improve public safety measures. 
 
